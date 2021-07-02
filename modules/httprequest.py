@@ -19,5 +19,3 @@ class httpRequest():
     #     except Exception:
     #         # print(traceback.format_exc())
     #         return None
-
-
